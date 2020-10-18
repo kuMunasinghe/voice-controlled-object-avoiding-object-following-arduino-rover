@@ -19,6 +19,8 @@ This a arduino UNO based rover which have various functions such as voice contro
     8. Jumper Wires
     9.18650 batteris.
     10.A piece of breadboard
+    11.A LED
+    12.Buzzer
     
     
     # Software
