@@ -1,7 +1,7 @@
-# voice-controlled-object-avoiding-objet-following-arduino-rover
+# voice-controlled-object-avoiding-object-following-arduino-rover
 This a arduino UNO based rover which have various functions such as voice controlling with object avoiding , object avoiding and object following .
 
-#Arduino libraries.
+# Arduino libraries.
 
   1.Servo
   2. NewPing
@@ -23,7 +23,7 @@ This a arduino UNO based rover which have various functions such as voice contro
     12.Buzzer
     
     
-    # Software
+ # Software
     
       1.Arduino IDE
       2.control app // https://play.google.com/store/apps/details?id=com.broxcode.arduinobluetoothfree
