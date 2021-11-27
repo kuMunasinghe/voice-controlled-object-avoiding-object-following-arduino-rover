@@ -5,6 +5,7 @@
 #define echo A0  // Define UltraSonic echo & trig pins 
 #define trig A1
 #define max_dis 300 // max distance 300cm
+#define min_dis 50 // test git
 
 NewPing sonar(trig, echo, max_dis); //assigning lib.
 
