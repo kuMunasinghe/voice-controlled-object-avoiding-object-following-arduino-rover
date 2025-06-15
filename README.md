@@ -1,6 +1,8 @@
 # voice-controlled-object-avoiding-object-following-arduino-rover
 This a arduino based rover which have various functions such as voice controlling with object avoiding , object avoiding and object following .
 
+<image src="https://github.com/kuMunasinghe/voice-controlled-object-avoiding-object-following-arduino-rover/blob/main/DSC_1367.JPG"
+
 # Arduino libraries.
 
   1.Servo
